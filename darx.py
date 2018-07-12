@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # GUI for the Python scripts of DARx automation. Made on https://github.com/chriskiehl/Gooey
-# Required Python 3
 
 from gooey import Gooey, GooeyParser
 import sys
